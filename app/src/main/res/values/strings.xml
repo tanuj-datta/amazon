@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">amazon</string>
+    <string name="mi_tv">
+        <b>Mi Tv</b>\n
+        This is the 55 inches tv\n
+
+
+    </string>
+    <string name="samsung">
+          <b>Samsung Tv</b>\n
+        This is the 32 inches tv\n
+
+    </string>
+    <string name="oneplus">
+          <b>OnePlus Tv</b>\n
+        This is the 105 inches tv\n
+
+    </string>
+    <string name="acer">
+          <b>Acer Tv</b>\n
+        This is the 105 inches tv\n
+
+    </string>
+    <string name="detel">
+          <b>Detel Tv</b>\n
+        This is the 55 inches tv\n
+
+    </string>
+    <string name="sony">
+          <b>Sony Tv</b>\n
+        This is the 105 inches tv\n
+
+    </string>
+    <string name="done">
+        Done by : \n
+        Tanuj Datta
+    </string>
+</resources>
